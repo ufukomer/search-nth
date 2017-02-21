@@ -1,0 +1,32 @@
+{
+  "name": "search-nth",
+  "version": "0.0.0",
+  "description": "Executes a search for nth match",
+  "license": "MIT",
+  "repository": "ufukomer/search-nth",
+  "author": {
+    "name": "Ömer Ufuk Efendioğlu",
+    "email": "ufukomer@gmail.com",
+    "url": "ufukomer.github.io"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "scripts": {
+    "test": "xo && ava"
+  },
+  "files": [
+    "index.js"
+  ],
+  "keywords": [
+    "search",
+    "regexp",
+    "match",
+    "exec",
+    "nth"
+  ],
+  "devDependencies": {
+    "ava": "^0.18.2",
+    "xo": "^0.17.1"
+  }
+}
