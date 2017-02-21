@@ -1,6 +1,6 @@
 {
   "name": "search-nth",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Executes a search for nth match",
   "license": "MIT",
   "repository": "ufukomer/search-nth",
